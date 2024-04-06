@@ -1,5 +1,5 @@
 Microservices in my organization which i managed:
-**MyCareer Application**
+#MyCareer Application
   - My Dashboard
   - My Skills & Skills from certifications
   - My Experience & Exposure
@@ -8,5 +8,5 @@ Microservices in my organization which i managed:
   - My Development plan
   - Explore Jobs
   - My Objectives (KPOs)(SLP3) 
-#My Benfits portal#
-#My Apps portal#
+#My Benfits portal
+#My Apps portal
